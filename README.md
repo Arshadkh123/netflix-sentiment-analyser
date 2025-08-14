@@ -8,6 +8,9 @@ This project uses an SVM-based machine learning model to classify Netflix app re
 - Streamlit-based web app
 - Secure login for users
 
+## to run my app - username -user1: password = password123,
+  "user2": "abc123" (any one).
+
 ## 🛠 How to Run Locally
 
 ```bash
